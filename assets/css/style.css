@@ -1,0 +1,42 @@
+
+body {
+  background-image: url("../images/backgroundImage.jpg");
+  
+}
+
+#head{
+  text-decoration: underline;
+  font-weight: bold;
+  font-size: 55px;
+}
+
+#quiz{
+  font-size: 25px;
+  font-weight: bold;
+}
+
+#quizStart{
+  margin-top: 30px;
+  font-size: 30px;
+}
+
+li:hover{
+      cursor: pointer;
+      color: red;
+}
+
+.choices{
+  list-style: none;
+}
+
+#quizscore{
+  font-size: 25px;
+  font-weight: bold;
+}
+
+#timeLeft, #timer{
+
+  font-size: 20px;
+  
+
+}
