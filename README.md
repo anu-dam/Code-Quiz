@@ -1,5 +1,5 @@
 # Coding-Quiz
 
-https://github.com/anu-dam/CodingQuiz/index.html
+https://anu-dam.github.io/CodingQuiz/index.html
 
 JavaScript Coding Quiz Project
